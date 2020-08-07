@@ -1,0 +1,14 @@
+{
+  "name": "wijmo-issue-material-style",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@grapecity/wijmo.purejs.all": "^5.20193.646"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
